@@ -15,4 +15,27 @@ This is an python challenge example.
 | 01 | ☑️ | Assignment #01 | ✍️#1.0 ~ #1.3 | ✔️ 퀴즈 |
 | 02 | ☑️ | Assignment #02 | ✍️#1.4 ~ #1.8 | ✔️ 코드 챌린지 |
 | 03 | ☑️ | Assignment #03 | ✍️ #1.10 ~ #1.11 | ✔️ 코드 챌린지 |
+| 04 | ☑️ | [Assignment #04](#_Day_04) | ✍️ #1.12 ~ #2.2 | ✔️ 코드 챌린지 |
 
+
+
+</br>
+</br>
+</br>
+</br>
+
+
+
+
+
+
+
+# #Day04
+## Challenge goals:
+- Using the boilerplate, make a program that gets urls as an input and checks if they are online or not.
+- 보일러플레이트를 이용해 URL을 입력받아 온라인 상태인지 아닌지 체크하는 프로그램을 만드세요.
+- 프로그램은 쉼표로 URL의 개수를 구별합니다. 또한 ‘http’의 유무와 공백을 체크하여 ‘http’가 없다면 추가해주고 공백은 모두 제거해 줍니다. 대문자가 포함되어 있을 경우도 생각하여 소문자로 변환시켜줍니다. 이러한 경우들을 모두 생각하여 처리해줍시다.
+- URL이 실제로 존재하는지 존재하지 않는지 체크해야 됩니다.
+- 사용자들은 프로그램이 모두 종료된 후 다시 시작할 수 있습니다.
+
+  <img src="https://nomad-coders-assets.s3.amazonaws.com/media/public/django-summernote/2020-04-15/3988e833-e1e3-4ac6-8670-a902c469caad.gif" width="400" height="300" />
