@@ -15,11 +15,11 @@ This is an python challenge example.
 | 01 | ☑️ | Assignment #01 | ✍️#1.0 ~ #1.3 | ✔️ 퀴즈 |
 | 02 | ☑️ | Assignment #02 | ✍️#1.4 ~ #1.8 | ✔️ 코드 챌린지 |
 | 03 | ☑️ | Assignment #03 | ✍️ #1.10 ~ #1.11 | ✔️ 코드 챌린지 |
-| 04 | ☑️ | [Assignment #04](#-day-04-~-07) | ✍️ #1.12 ~ #2.2 | ✔️ 코드 챌린지 |
-| 05 | ☑️ | [Assignment #04](#-day-04-~-07) | ✍️ #1.12 ~ #2.2 | ✔️ 코드 챌린지 |
-| 06 | ☑️ | [Assignment #04](#-day-04-~-07) | ✍️ #1.12 ~ #2.2 | ✔️ 코드 챌린지 |
-| 07 | ☑️ | [Assignment #04](#-day-04-~-07) | ✍️ #1.12 ~ #2.2 | ✔️ 코드 챌린지 |
-| 08 |    | [Assignment #05]((#-day-08) | ✍️ #2.3 ~ #2.16 | ✔️ 코드 챌린지 |
+| 04 | ☑️ | [Assignment #04](#Assignment[4]) | ✍️ #1.12 ~ #2.2 | ✔️ 코드 챌린지 |
+| 05 | ☑️ | [Assignment #04](#Assignment[4]) | ✍️ #1.12 ~ #2.2 | ✔️ 코드 챌린지 |
+| 06 | ☑️ | [Assignment #04](#Assignment[4]) | ✍️ #1.12 ~ #2.2 | ✔️ 코드 챌린지 |
+| 07 | ☑️ | [Assignment #04](#Assignment[4]) | ✍️ #1.12 ~ #2.2 | ✔️ 코드 챌린지 |
+| 08 |    | [Assignment #05](#Assignment[5]) | ✍️ #2.3 ~ #2.16 | ✔️ 코드 챌린지 |
 
 
 </br>
@@ -33,7 +33,7 @@ This is an python challenge example.
 
 
 
-# # Day 04 ~ 07
+# #Assignment[4]
 ## Challenge goals:
 - Using the boilerplate, make a program that gets urls as an input and checks if they are online or not.
 - 보일러플레이트를 이용해 URL을 입력받아 온라인 상태인지 아닌지 체크하는 프로그램을 만드세요.
@@ -43,7 +43,7 @@ This is an python challenge example.
 
   <img src="https://nomad-coders-assets.s3.amazonaws.com/media/public/django-summernote/2020-04-15/3988e833-e1e3-4ac6-8670-a902c469caad.gif" width="400" height="300" />
 
-# # Day 08
+# #Assignment[5]
 ## Jobs4All
 - 오늘의 강의: 파이썬으로 웹 스크래퍼 만들기 2.3 - 2.16
 - 오늘의 과제: 위의 강의를 시청하신 후, 아래 코드 챌린지를 제출하세요.
