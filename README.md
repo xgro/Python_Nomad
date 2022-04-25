@@ -25,13 +25,6 @@ This is an python challenge example.
 </br>
 </br>
 </br>
-</br>
-
-
-
-
-
-
 
 # #Assignment[4]
 ## Challenge goals:
@@ -42,6 +35,10 @@ This is an python challenge example.
 - 사용자들은 프로그램이 모두 종료된 후 다시 시작할 수 있습니다.
 
   <img src="https://nomad-coders-assets.s3.amazonaws.com/media/public/django-summernote/2020-04-15/3988e833-e1e3-4ac6-8670-a902c469caad.gif" width="400" height="300" />
+
+</br>
+</br>
+</br>
 
 # #Assignment[5]
 ## Jobs4All
