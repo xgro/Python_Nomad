@@ -15,11 +15,11 @@ This is an python challenge example.
 | 01 | ☑️ | Assignment #01 | ✍️#1.0 ~ #1.3 | ✔️ 퀴즈 |
 | 02 | ☑️ | Assignment #02 | ✍️#1.4 ~ #1.8 | ✔️ 코드 챌린지 |
 | 03 | ☑️ | Assignment #03 | ✍️ #1.10 ~ #1.11 | ✔️ 코드 챌린지 |
-| 04 | ☑️ | [Assignment #04](#Assignment[4]) | ✍️ #1.12 ~ #2.2 | ✔️ 코드 챌린지 |
-| 05 | ☑️ | [Assignment #04](#Assignment[4]) | ✍️ #1.12 ~ #2.2 | ✔️ 코드 챌린지 |
-| 06 | ☑️ | [Assignment #04](#Assignment[4]) | ✍️ #1.12 ~ #2.2 | ✔️ 코드 챌린지 |
-| 07 | ☑️ | [Assignment #04](#Assignment[4]) | ✍️ #1.12 ~ #2.2 | ✔️ 코드 챌린지 |
-| 08 |    | [Assignment #05](#Assignment[5]) | ✍️ #2.3 ~ #2.16 | ✔️ 코드 챌린지 |
+| 04 | ☑️ | [Assignment #04](#Assignment4) | ✍️ #1.12 ~ #2.2 | ✔️ 코드 챌린지 |
+| 05 | ☑️ | [Assignment #04](#Assignment4) | ✍️ #1.12 ~ #2.2 | ✔️ 코드 챌린지 |
+| 06 | ☑️ | [Assignment #04](#Assignment4) | ✍️ #1.12 ~ #2.2 | ✔️ 코드 챌린지 |
+| 07 | ☑️ | [Assignment #04](#Assignment4) | ✍️ #1.12 ~ #2.2 | ✔️ 코드 챌린지 |
+| 08 |    | [Assignment #05](#Assignment5) | ✍️ #2.3 ~ #2.16 | ✔️ 코드 챌린지 |
 
 
 </br>
