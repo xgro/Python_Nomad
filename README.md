@@ -15,11 +15,11 @@ This is an python challenge example.
 | 01 | ☑️ | Assignment #01 | ✍️#1.0 ~ #1.3 | ✔️ 퀴즈 |
 | 02 | ☑️ | Assignment #02 | ✍️#1.4 ~ #1.8 | ✔️ 코드 챌린지 |
 | 03 | ☑️ | Assignment #03 | ✍️ #1.10 ~ #1.11 | ✔️ 코드 챌린지 |
-| 04 | ☑️ | [Assignment #04](#_Day_04) | ✍️ #1.12 ~ #2.2 | ✔️ 코드 챌린지 |
-| 05 | ☑️ | [Assignment #04](#_Day_04) | ✍️ #1.12 ~ #2.2 | ✔️ 코드 챌린지 |
-| 06 | ☑️ | [Assignment #04](#_Day_04) | ✍️ #1.12 ~ #2.2 | ✔️ 코드 챌린지 |
-| 07 | ☑️ | [Assignment #04](#_Day_04) | ✍️ #1.12 ~ #2.2 | ✔️ 코드 챌린지 |
-| 08 |    | [Assignment #05](#_Day_08) | ✍️ #2.3 ~ #2.16 | ✔️ 코드 챌린지 |
+| 04 | ☑️ | [Assignment #04](#-day-04) | ✍️ #1.12 ~ #2.2 | ✔️ 코드 챌린지 |
+| 05 | ☑️ | [Assignment #04](#-day-04) | ✍️ #1.12 ~ #2.2 | ✔️ 코드 챌린지 |
+| 06 | ☑️ | [Assignment #04](#-day-04) | ✍️ #1.12 ~ #2.2 | ✔️ 코드 챌린지 |
+| 07 | ☑️ | [Assignment #04](#-day-04) | ✍️ #1.12 ~ #2.2 | ✔️ 코드 챌린지 |
+| 08 |    | [Assignment #05]((#-day-08) | ✍️ #2.3 ~ #2.16 | ✔️ 코드 챌린지 |
 
 
 </br>
@@ -33,7 +33,7 @@ This is an python challenge example.
 
 
 
-# # Day 04
+# # Day 04 ~ 07
 ## Challenge goals:
 - Using the boilerplate, make a program that gets urls as an input and checks if they are online or not.
 - 보일러플레이트를 이용해 URL을 입력받아 온라인 상태인지 아닌지 체크하는 프로그램을 만드세요.
