@@ -24,7 +24,6 @@ print(type(a_none))
 # https://docs.python.org/3/library/ 파이썬 참조 공식 문서
 # 1-0 자료형 연습 list
 days = ["Mon","Tue","Wed","Thur","Fri"]
-
 print(days)
 print(type(days)) 
 print("Mon" in days)
@@ -34,14 +33,10 @@ print(len(days))
 
 # 1-1 자료형 연습 tuples Immutable variables
 days = ("Mon","Tue","Wed","Thur","Fri")
-
 print(days)
 print(type(days)) 
 print("Mon" in days)
 print(len(days))
-
-
-
 
 # 1-2 자료형 연습 dict 
 xgro = {
