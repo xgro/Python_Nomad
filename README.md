@@ -6,7 +6,7 @@ This is an python challenge example.
 
 ## Requirements
 - Python 3.8.10
-
+- Flask 
 </br>
 
 ## Step
@@ -16,8 +16,8 @@ This is an python challenge example.
 | 02 | ☑️ | Assignment #02 | 02 | ✍️#1.4 ~ #1.8 | ✔️ 코드 챌린지 |
 | 03 | ☑️ | Assignment #03 | 03 | ✍️ #1.10 ~ #1.11 | ✔️ 코드 챌린지 |
 | 04 | ☑️ | [Assignment #04](#Assignment4) | 04 ~ 07 | ✍️ #1.12 ~ #2.2 | ✔️ 코드 챌린지 |
-| 05 |    | [Assignment #05](#Assignment5) | 08 ~ 10 | ✍️ #2.3 ~ #2.16 | ✔️ 코드 챌린지 |
-
+| 05 | ☑️ | [Assignment #05](#Assignment5) | 08 ~ 10 | ✍️ #2.3 ~ #2.16 | ✔️ 코드 챌린지 |
+| 06 | ☑️ | [Assignment #06](#Assignment6) | 11 ~ 14 | ✍️ #3.0 ~ #4.10 | ✔️ 코드 챌린지 |
 
 </br>
 </br>
@@ -55,3 +55,38 @@ This is an python challenge example.
 - repl.it 와 .csv 파일들의 예상 실행 결과는 아래와 같습니다.
 - 새로운 1일 과제입니다! 알바천국을 스크래핑 하세요!
 - csv 파일이 위의 화면처럼 출력되게끔 코딩하세요.
+
+
+
+</br>
+</br>
+</br>
+
+# #Assignment[6]
+- 마지막 과제: 파이썬 모든 강의를 바탕으로 출제되었습니다.   
+- 제출기간: 4일 챌린지입니다. 월요일 오전 6시까지!
+<br>
+<br>
+## Challenge goals:
+- 보일러플레이트를 이용하여 세 종류의 웹사이트에서 정보를 긁어와 원격 직업을 찾는 "job scrapper"를 만드세요.
+- This is how the website should behave: [watch the video](https://imgur.com/DCIdYE5)
+<br>
+<br>
+## 조건
+웹사이트는 .csv 파일 내보내기가 가능해야 됩니다.
+반복 검색 속도가 빨라지기 위해서 fakeDB를 구현해야 됩니다.
+아래에 있는 세 종류의 웹사이트를 모두 스크랩해야 됩니다.
+- https://weworkremotely.com/
+- https://stackoverflow.com/jobs
+- https://remoteok.io/
+<br>
+<br>
+## 제출방법
+- 제출기간: 4일 챌린지입니다. 월요일 오전 6시까지!   
+- 오늘의 템플릿: 위의 Today's Blueprint 버튼을 클릭하세요!
+<br>
+<br>
+## 챌린지 어떠셨나요?
+- 마지막 피드백, 소감, 후기 등을 꼬옥- 남겨주세요! 더 좋은 챌린지를 만드는데 커다란 힘이 됩니다.   
+[게시판에 남기기](https://nomadcoders.co/community/python)  
+[익명으로 남기기](https://docs.google.com/forms/d/e/1FAIpQLSeYfdbByffc0g4K12-QsKglhg37EcZKuSw-I1FCKGqBvOYpVA/viewform)
