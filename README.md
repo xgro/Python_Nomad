@@ -65,13 +65,9 @@ This is an python challenge example.
 # #Assignment[6]
 - 마지막 과제: 파이썬 모든 강의를 바탕으로 출제되었습니다.   
 - 제출기간: 4일 챌린지입니다. 월요일 오전 6시까지!
-<br>
-<br>
 ## Challenge goals:
 - 보일러플레이트를 이용하여 세 종류의 웹사이트에서 정보를 긁어와 원격 직업을 찾는 "job scrapper"를 만드세요.
 - This is how the website should behave: [watch the video](https://imgur.com/DCIdYE5)
-<br>
-<br>
 ## 조건
 웹사이트는 .csv 파일 내보내기가 가능해야 됩니다.
 반복 검색 속도가 빨라지기 위해서 fakeDB를 구현해야 됩니다.
@@ -79,13 +75,9 @@ This is an python challenge example.
 - https://weworkremotely.com/
 - https://stackoverflow.com/jobs
 - https://remoteok.io/
-<br>
-<br>
 ## 제출방법
 - 제출기간: 4일 챌린지입니다. 월요일 오전 6시까지!   
 - 오늘의 템플릿: 위의 Today's Blueprint 버튼을 클릭하세요!
-<br>
-<br>
 ## 챌린지 어떠셨나요?
 - 마지막 피드백, 소감, 후기 등을 꼬옥- 남겨주세요! 더 좋은 챌린지를 만드는데 커다란 힘이 됩니다.   
 [게시판에 남기기](https://nomadcoders.co/community/python)  
