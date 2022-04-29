@@ -6,7 +6,10 @@ This is an python challenge example.
 
 ## Requirements
 - Python 3.8.10
-- Flask 
+- Flask 2.1.2
+- requests 2.27.1
+- Jinja2 3.1.2
+- beautifulsoup4 4.11.1
 </br>
 
 ## Step
